@@ -1,0 +1,5 @@
+127.0.0.1 - - [29/Aug/2023:16:05:47 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [29/Aug/2023:16:05:48 +0530] "GET /CaseStudy/index.jsp HTTP/1.1" 200 344
+0:0:0:0:0:0:0:1 - - [29/Aug/2023:16:05:53 +0530] "GET /CaseStudy/admin.jsp? HTTP/1.1" 200 425
+0:0:0:0:0:0:0:1 - - [29/Aug/2023:16:05:54 +0530] "GET /CaseStudy/create.jsp? HTTP/1.1" 200 419
+0:0:0:0:0:0:0:1 - - [29/Aug/2023:16:06:08 +0530] "GET /CaseStudy/insertproduct?id=103&name=remote&cost=100&quantity=3 HTTP/1.1" 500 3800

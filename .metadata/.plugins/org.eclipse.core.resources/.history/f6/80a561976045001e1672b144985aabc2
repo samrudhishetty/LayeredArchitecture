@@ -1,0 +1,21 @@
+package in.mindcraft.controllers;
+
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+@Controller
+public class LaptopController {
+	@RequestMapping("/insertlap")
+	public void addLaptop(HttpServletRequest request , HttpServletResponse response)
+{
+		
+		int lid = Integer.parseInt(request.getParameter("lid"));
+		String make = request.getParameter("make");
+		double cost = Double.parseDouble(request.getParameter("cost"));
+		
+		Laptop laptop = new Laptop(lid,make,cost);
+		}
+}

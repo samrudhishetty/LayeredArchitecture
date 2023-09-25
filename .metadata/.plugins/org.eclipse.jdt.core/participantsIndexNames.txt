@@ -1,0 +1,7 @@
+INDEX VERSION 1.134
+D:\java demo\LayeredArchitectureDemo\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2542801382.index
+\CaseStudy\src\main\java
+D:\java demo\LayeredArchitectureDemo\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3665784690.index
+\CaseStudy\src\main\java
+D:\java demo\LayeredArchitectureDemo\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1562277940.index
+\ArchitectureDemo\src\main\java
